@@ -18,7 +18,7 @@ int main() {
 	//imshow("imput", img); //ÏÔÊ¾´°¿Ú
 	//ÉùÃ÷quickdemo
 	QuickDemo qd;
-	/*qd.MatCreation_Demo(); */
+	/*qd.MatCreation_Demo();  Test*/
 	qd.sensors_homework();
 
 
